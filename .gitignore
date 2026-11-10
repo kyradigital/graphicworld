@@ -1,0 +1,5 @@
+# Original source images (compressed web copies live in assets/)
+/*.png
+
+# Local preview config
+.claude/
